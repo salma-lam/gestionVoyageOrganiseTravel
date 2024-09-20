@@ -7,3 +7,4 @@
 *.js linguist-detectable=false
 *.json linguist-detectable=false
 *.vue linguist-detectable=false
+*.scss linguist-detectable=false
